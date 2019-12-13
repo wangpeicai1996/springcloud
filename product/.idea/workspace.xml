@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8fb08bb-0a93-4855-9752-7e6e6844df28" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PabHrSri5NaYf2Ewr8MMJ5wO0R" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565852848852" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/product-server/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.pcwang.product.service.impl" />
+      <recent name="com.pcwang.product.service" />
+      <recent name="com.pcwang.product.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/product-server/src/main/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.pcwang.product" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/product-common/src/main/java/com/pcwang/product/common" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pcwang.product.client" />
+      <recent name="com.pcwang.product.dao" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pcwang.product.VO" />
+      <recent name="com.pcwang.product.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProductApplication">
+    <configuration name="ProductCategoryServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="product.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="product.service" />
+      <option name="MAIN_CLASS_NAME" value="product.service.ProductCategoryServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCategoryServiceTest.findByCategoryTypeIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="product.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="product.service" />
+      <option name="MAIN_CLASS_NAME" value="product.service.ProductCategoryServiceTest" />
+      <option name="METHOD_NAME" value="findByCategoryTypeIn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.descreaseStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="product.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="product.service" />
+      <option name="MAIN_CLASS_NAME" value="product.service.ProductServiceTest" />
+      <option name="METHOD_NAME" value="descreaseStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.findByProductIdIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="product.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="product.service" />
+      <option name="MAIN_CLASS_NAME" value="product.service.ProductServiceTest" />
+      <option name="METHOD_NAME" value="findByProductIdIn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.findList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="product.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="product.service" />
+      <option name="MAIN_CLASS_NAME" value="product.service.ProductServiceTest" />
+      <option name="METHOD_NAME" value="findList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pcwang.product.ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pcwang.product.ProductApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ProductClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pcwang.productcommon.ProductCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="product.server.ProductServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pcwang.productserver.ProductServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProductCategoryServiceTest" />
+      <item itemvalue="JUnit.ProductCategoryServiceTest.findByCategoryTypeIn" />
+      <item itemvalue="JUnit.ProductServiceTest.descreaseStock" />
+      <item itemvalue="JUnit.ProductServiceTest.findByProductIdIn" />
+      <item itemvalue="JUnit.ProductServiceTest.findList" />
+      <item itemvalue="Spring Boot.ProductApplication" />
+      <item itemvalue="Spring Boot.ProductApplication (1)" />
+      <item itemvalue="Spring Boot.ProductApplication (2)" />
+      <item itemvalue="Spring Boot.ProductClientApplication" />
+      <item itemvalue="Spring Boot.ProductCommonApplication" />
+      <item itemvalue="Spring Boot.ProductServerApplication" />
+      <item itemvalue="Spring Boot.ProductServerApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductServiceTest.descreaseStock" />
+        <item itemvalue="JUnit.ProductServiceTest.findList" />
+        <item itemvalue="JUnit.ProductServiceTest.findByProductIdIn" />
+        <item itemvalue="JUnit.ProductCategoryServiceTest.findByCategoryTypeIn" />
+        <item itemvalue="JUnit.ProductCategoryServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8fb08bb-0a93-4855-9752-7e6e6844df28" name="Default Changelist" comment="" />
+      <created>1565530672381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565530672381</updated>
+      <workItem from="1565530681721" duration="6693000" />
+      <workItem from="1565847970173" duration="4882000" />
+      <workItem from="1565968210166" duration="836000" />
+      <workItem from="1566115075880" duration="877000" />
+      <workItem from="1566119466624" duration="18000" />
+      <workItem from="1566119518758" duration="963000" />
+      <workItem from="1566125450514" duration="4882000" />
+      <workItem from="1566702934809" duration="116000" />
+      <workItem from="1566703064577" duration="9177000" />
+      <workItem from="1566733897845" duration="1273000" />
+      <workItem from="1567087947694" duration="2234000" />
+      <workItem from="1570419589123" duration="2282000" />
+      <workItem from="1570426311595" duration="3090000" />
+      <workItem from="1570452238095" duration="625000" />
+      <workItem from="1570454042592" duration="3161000" />
+      <workItem from="1570535590145" duration="3497000" />
+      <workItem from="1570949853898" duration="598000" />
+      <workItem from="1573966695046" duration="316000" />
+      <workItem from="1573968643947" duration="6246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

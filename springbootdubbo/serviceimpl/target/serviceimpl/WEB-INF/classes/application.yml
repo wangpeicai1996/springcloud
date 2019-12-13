@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: dubbo-provider
+  couchbase:
+    env:
+      endpoints:
+        queryservice:
+          max-endpoints:
+server:
+  port: 9090
+#扫描dubbo注解，如@Service
+dubbo:
+  scan:
+    base-packages: com.pcwang.service.impl
+  application:
+    id: dubbo-service-provider
+    name: dubbo-provider
+  protocol:
+    id: dubbo-protocl
+    name: dubbo
+    port: 12345
+    #表明是一个server
+    status: server
+  registry:
+    id: zookeeper-registry
+    address: 192.168.25.26:2181
+    protocol: zookeeper
